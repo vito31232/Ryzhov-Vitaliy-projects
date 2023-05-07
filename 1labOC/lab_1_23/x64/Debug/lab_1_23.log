@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\vito3\source\repos\lab_1_23\lab_1_23\Source.cpp(12,56): warning C4244: аргумент: преобразование "DWORD" в "WORD", возможна потеря данных
+  lab_1_23.vcxproj -> C:\Users\vito3\source\repos\lab_1_23\x64\Debug\lab_1_23.exe
