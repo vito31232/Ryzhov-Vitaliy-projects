@@ -1,0 +1,11 @@
+C:\Users\vito3\source\repos\IrVS8\IrVS8\bin\Debug\IrVS8.exe.config
+C:\Users\vito3\source\repos\IrVS8\IrVS8\bin\Debug\IrVS8.exe
+C:\Users\vito3\source\repos\IrVS8\IrVS8\bin\Debug\IrVS8.pdb
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.csproj.AssemblyReference.cache
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.csproj.SuggestedBindingRedirects.cache
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.Form1.resources
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.Properties.Resources.resources
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.csproj.GenerateResource.cache
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.csproj.CoreCompileInputs.cache
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.exe
+C:\Users\vito3\source\repos\IrVS8\IrVS8\obj\Debug\IrVS8.pdb

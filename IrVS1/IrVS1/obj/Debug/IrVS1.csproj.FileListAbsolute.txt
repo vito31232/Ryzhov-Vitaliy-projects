@@ -1,0 +1,11 @@
+C:\Users\vito3\source\repos\IrVS1\IrVS1\bin\Debug\IrVS1.exe.config
+C:\Users\vito3\source\repos\IrVS1\IrVS1\bin\Debug\IrVS1.exe
+C:\Users\vito3\source\repos\IrVS1\IrVS1\bin\Debug\IrVS1.pdb
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.csproj.AssemblyReference.cache
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.Form1.resources
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.Properties.Resources.resources
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.csproj.GenerateResource.cache
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.csproj.CoreCompileInputs.cache
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.exe
+C:\Users\vito3\source\repos\IrVS1\IrVS1\obj\Debug\IrVS1.pdb
